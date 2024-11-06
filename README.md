@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing.
 - 📫 How to reach me: No way
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: French Fries is not originated in France.
+- ⚡ Fun fact: French Fries was not originated in France.
 -->
